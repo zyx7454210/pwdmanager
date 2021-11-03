@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="C1Padding">10dp</dimen>
+    <dimen name="fab_margin">15dp</dimen>
+</resources>
